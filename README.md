@@ -14,3 +14,7 @@ Google Research의 시계열 파운데이션 모델 [TimesFM](https://github.com
 
 에너지 시계열 예측(ISF, International Symposium on Forecasting) 프로젝트를 하면서,
 사전학습된 파운데이션 모델을 예측에 활용할 수 있을지 검토하며 정리한 자료입니다.
+
+## Acknowledgement
+
+This repository was developed with support from the 서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단 – http://dsplus.uos.ac.kr/
